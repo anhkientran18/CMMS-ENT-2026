@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise CMMS Admin",
+  "description": "Giao diện Quản trị Vận hành & Bảo trì Doanh nghiệp (CMMS) chuẩn Figma với Kanban Work Orders, QR Assets, Lịch Bảo trì và Báo cáo Phân tích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
